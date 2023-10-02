@@ -330,10 +330,6 @@ body {
     margin: 63px 46px;
 }
 
-.text__column {
-
-}
-
 .about__column {
     margin-top: 100px;
     margin-bottom: 1px;
@@ -424,11 +420,6 @@ body {
 
 .footer__menu-list-item {
     text-decoration: none;
-}
-
-.footer__social {
-    display: flex;
-    justify-content: space-between;
 }
 
 .footer__social-list {
