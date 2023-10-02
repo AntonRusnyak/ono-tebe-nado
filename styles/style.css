@@ -415,16 +415,13 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    text-decoration: none;
 }
 
 .footer__menu-link {
     text-decoration: none;
     text-decoration-line: underline;
     text-underline-offset: 4px;
-}
-
-.footer__menu-list-item {
-    text-decoration: none;
 }
 
 .footer__social-list {
